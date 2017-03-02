@@ -1,0 +1,15 @@
+
+body,
+button,
+#add-character {
+  color: orange;
+}
+
+#funContent {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#characters-view {
+  width: 900px;
+}
